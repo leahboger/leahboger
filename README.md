@@ -13,7 +13,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/leahboger001
+[linkedin]: https://www.linkedin.com/in/leahboger001
 
 
 <!--
