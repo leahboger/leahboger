@@ -32,8 +32,8 @@ There is very little literature regarding creation and validation of zero-inflat
 
 
 ### Amazon Prime Coursework Project
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project Repository](https://github.com/leahboger/AmazonPrime)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+A final project for a Data Science 101 course at Loyola University Chicago. As a big movie lover, I opted to take a look at some trends and notable achievements from an Amazon Prime data set using data visualization and data wrangling.
 
 
