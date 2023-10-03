@@ -26,7 +26,7 @@
 
 ## Projects
 ### Zero-Inflated Poisson Model Validation Method Comparison
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Repository](https://github.com/leahboger/ZeroInflatedPoissonValidation)
 
 There is very little literature regarding creation and validation of zero-inflated poisson models using R. In light of this, I worked with Dr. Swarnali Banerjee (Loyola University Chicago head of Data Science Program) to begin an exploration of the topic. This project contains a coding pipeline I created to compare k-fold Cross Validation with stratified k-fold CV of ZIP models.
 
