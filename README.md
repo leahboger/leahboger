@@ -30,6 +30,11 @@
 
 There is very little literature regarding creation and validation of zero-inflated poisson models using R. In light of this, I worked with Dr. Swarnali Banerjee (Loyola University Chicago head of Data Science Program) to begin an exploration of the topic. This project contains a coding pipeline I created to compare k-fold Cross Validation with stratified k-fold CV of ZIP models.
 
+### Data Fest 2023 Project
+[Project Repository](https://github.com/leahboger/DataFest2023)
+
+For Data Fest 2023, the American Bar Association shared data from an online portal where low-income status participants can get pro bono legal services. We sought to better understand which counties had the longest average time from question to answer on the portal. In addition, we wanted to understand how number of questions asked, as well as average response time, corresponded to a heat map of poverty in the US to inform the ABA of future areas of outreach and where to allocate resources.
+
 
 ### Amazon Prime Coursework Project
 [Project Repository](https://github.com/leahboger/AmazonPrime)
