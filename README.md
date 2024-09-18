@@ -4,6 +4,7 @@
 
 ## Education	 			        		
 - B.S., Data Science | Loyola University Chicago (_Anticipated: May 2025_)
+- M.S., Applied Statistics | Loyola University Chicago (_Anticipated: May 2026_)
 
 ## Work Experience
 **Data Science Intern @ The American Medical Association (Loyola Chicago) (_Dec 2023 - August 2024_)** <br />
