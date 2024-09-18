@@ -6,13 +6,18 @@
 - B.S., Data Science | Loyola University Chicago (_Anticipated: May 2025_)
 
 ## Work Experience
-**Team Member @ Crime and Attitudes Project (Loyola Chicago) (_Sept 2023 - Present_)** <br />
+**Data Science Intern @ The American Medical Association (Loyola Chicago) (_Dec 2023 - August 2024_)** <br />
+- Use SAS, SQL, Python and Informatica Data Quality to identify and rectify over 200,000 data quality issues in physician data to maintain high accuracy for customers
+- Create interactive dashboards with Power BI to give direction and oversight in order to efficiently allocate data steward resources
+- Design, build, and test new process involving Informatica IDQ and Oracle to automate an existing data quality process
+
+**Team Member @ Crime and Attitudes Project (Loyola Chicago) (_Sept 2023 - May 2024_)** <br />
 <sub>This project seeks to create data visualization of crime pre and post covid in connection with local attitudes on crime for the top 10-15 major U.S. cities.</sub>
 - Collect and format public data files
 - Perform data wrangling and cleaning in RStudio
 - Utilized SHP files and managed substantial datasets
 
-**Lab Data Analyst @ Putonti Lab (Loyola Chicago) (_Sept 2023 - Present_)**
+**Lab Data Analyst @ Putonti Lab (Loyola Chicago) (_Sept 2023 - Jan 2024_)**
 - Analyze ANI and Mash data in RStudio
 - Create data visualization to convey complex insights
 - Communicate cross-departmentally to facilitate research and convey findings
@@ -41,4 +46,8 @@ For Data Fest 2023, the American Bar Association shared data from an online port
 
 A final project for a Data Science 101 course at Loyola University Chicago. As a big movie lover, I opted to take a look at some trends and notable achievements from an Amazon Prime data set using data visualization and data wrangling.
 
+## Publications
+### [Evidence of Lactobacillus strains shared between the female urinary and vaginal microbiota](https://doi.org/10.1099/mgen.0.001267)
+
+At the Putonti lab at Loyola Univeristy Chicago, I worked closely with both a group of students and Dr. Swarnali Banerjee to create a statistical methodology to differentiate between strains of Lactobacillus. We were able to conduct simulations of genome assemblies and ANI comparisons and present a statistical method to distinguish between unrelated, related, and identical strains.
 
