@@ -1,6 +1,6 @@
 # Data Science Student
 
-#### Technical Skills: R, Python, SQL
+#### Languages and Softwares: R, Python, SQL, SAS, Power BI, Informatica Data Quality
 
 ## Education	 			        		
 - B.S., Data Science | Loyola University Chicago (_Anticipated: May 2025_)
