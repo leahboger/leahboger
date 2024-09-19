@@ -30,6 +30,11 @@
 - Built and executed code pipelines in R to assess differences in K-Fold Cross Validation techniques for evaluating ZIP models
 - Presented findings at an end-of-program event
 
+## Publications
+### [Evidence of Lactobacillus strains shared between the female urinary and vaginal microbiota](https://doi.org/10.1099/mgen.0.001267)
+
+At the Putonti lab at Loyola Univeristy Chicago, I worked closely with both a group of students and Dr. Swarnali Banerjee to create a statistical methodology to differentiate between strains of Lactobacillus. We were able to conduct simulations of genome assemblies and ANI comparisons and present a statistical method to distinguish between unrelated, related, and identical strains.
+
 ## Projects
 ### Zero-Inflated Poisson Model Validation Method Comparison
 [Project Repository](https://github.com/leahboger/ZeroInflatedPoissonValidation)
@@ -46,9 +51,3 @@ For Data Fest 2023, the American Bar Association shared data from an online port
 [Project Repository](https://github.com/leahboger/AmazonPrime)
 
 A final project for a Data Science 101 course at Loyola University Chicago. As a big movie lover, I opted to take a look at some trends and notable achievements from an Amazon Prime data set using data visualization and data wrangling.
-
-## Publications
-### [Evidence of Lactobacillus strains shared between the female urinary and vaginal microbiota](https://doi.org/10.1099/mgen.0.001267)
-
-At the Putonti lab at Loyola Univeristy Chicago, I worked closely with both a group of students and Dr. Swarnali Banerjee to create a statistical methodology to differentiate between strains of Lactobacillus. We were able to conduct simulations of genome assemblies and ANI comparisons and present a statistical method to distinguish between unrelated, related, and identical strains.
-
