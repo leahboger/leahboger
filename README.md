@@ -36,6 +36,12 @@
 At the Putonti lab at Loyola Univeristy Chicago, I worked closely with both a group of students and Dr. Swarnali Banerjee to create a statistical methodology to differentiate between strains of Lactobacillus. We were able to conduct simulations of genome assemblies and ANI comparisons and present a statistical method to distinguish between unrelated, related, and identical strains.
 
 ## Projects
+### PC verus Console: Webscraping, Aspect-Based Sentiment Analysis, and Topic Modeling
+[Project Repository](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
+
+This project aims to explore the common gaming debate between using a PC versus a Console. Using APIs, we scraped comments from popular subreddits and youtube videos on the subject. After cleaning and wrangling the data, we applied a common aspect-based sentiment analysis model (deberta-v3-base-absa) to the comments. We then created a methodolgy to group comments into "pro console," "pro pc," and "neutral" comments. From there we used Top2Vec to model topics within each category.
+
+
 ### Zero-Inflated Poisson Model Validation Method Comparison
 [Project Repository](https://github.com/leahboger/ZeroInflatedPoissonValidation)
 
