@@ -7,7 +7,7 @@
 - M.S., Applied Statistics | Loyola University Chicago (_Anticipated: May 2026_)
 
 ## Work Experience
-**Data Science Intern @ The American Medical Association (Loyola Chicago) (_Dec 2023 - August 2024_)** <br />
+**Data Science Intern @ The American Medical Association (Chicago, IL) (_Dec 2023 - August 2024_)** <br />
 - Use SAS, SQL, Python and Informatica Data Quality to identify and rectify over 200,000 data quality issues in physician data to maintain high accuracy for customers
 - Create interactive dashboards with Power BI to give direction and oversight in order to efficiently allocate data steward resources
 - Design, build, and test new process involving Informatica IDQ and Oracle to automate an existing data quality process
