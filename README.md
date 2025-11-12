@@ -3,10 +3,16 @@
 #### Languages and Softwares: R, Python, SQL, SAS, Power BI, Informatica Data Quality
 
 ## Education	 			        		
-- B.S., Data Science | Loyola University Chicago (_Anticipated: May 2025_)
+- B.S., Data Science | Loyola University Chicago (_May 2025_)
 - M.S., Applied Statistics | Loyola University Chicago (_Anticipated: May 2026_)
 
 ## Work Experience
+**Analytics Intern @ Enova International (Chicago, IL) (_June 2025 - August 2025_)** <br />
+- Build tree-based model in Python to identify high risk customers who should go through income verification process
+- Use data from previous model implementation tests to calculate new model projections
+- Implementation of new model projects increasing issued loan rate by over 10% and keeping default rates below target value
+
+  
 **Data Science Intern @ The American Medical Association (Chicago, IL) (_Dec 2023 - August 2024_)** <br />
 - Use SAS, SQL, Python and Informatica Data Quality to identify and rectify over 200,000 data quality issues in physician data to maintain high accuracy for customers
 - Create interactive dashboards with Power BI to give direction and oversight in order to efficiently allocate data steward resources
